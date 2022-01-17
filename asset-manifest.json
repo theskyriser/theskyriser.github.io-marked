@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2918a685.css",
-    "main.js": "/static/js/main.f1de4e80.js",
-    "static/js/787.da5cdd2b.chunk.js": "/static/js/787.da5cdd2b.chunk.js",
-    "index.html": "/index.html",
-    "main.2918a685.css.map": "/static/css/main.2918a685.css.map",
-    "main.f1de4e80.js.map": "/static/js/main.f1de4e80.js.map",
-    "787.da5cdd2b.chunk.js.map": "/static/js/787.da5cdd2b.chunk.js.map"
+    "main.css": "/theskyriser.github.io-marked/static/css/main.2918a685.css",
+    "main.js": "/theskyriser.github.io-marked/static/js/main.92f5958c.js",
+    "static/js/787.da5cdd2b.chunk.js": "/theskyriser.github.io-marked/static/js/787.da5cdd2b.chunk.js",
+    "index.html": "/theskyriser.github.io-marked/index.html",
+    "main.2918a685.css.map": "/theskyriser.github.io-marked/static/css/main.2918a685.css.map",
+    "main.92f5958c.js.map": "/theskyriser.github.io-marked/static/js/main.92f5958c.js.map",
+    "787.da5cdd2b.chunk.js.map": "/theskyriser.github.io-marked/static/js/787.da5cdd2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2918a685.css",
-    "static/js/main.f1de4e80.js"
+    "static/js/main.92f5958c.js"
   ]
 }
